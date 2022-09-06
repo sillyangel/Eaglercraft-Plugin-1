@@ -1,0 +1,8 @@
+name: ExamplePlugin
+description: "example"
+author: ExampleAuthor
+main: com.example.Main
+version: 1.0
+
+commands:
+  mycommand:
